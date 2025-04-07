@@ -87,3 +87,8 @@ $(document).ready(function () {
         </div>
 ```
 <detail>This is the code we used to create cards. Each card contained a fun fact from our data object. The cards contained a like button and were flippable.</detail>
+<a href="https://github.com/carlycopley/dev-easy-project">Link to the full code</a>
+<p>Dr. Cumbie's Feedback: "Barry Cumbie at Thu Apr 3, 2025 10:03amat Thu Apr 3, 2025 10:03am
+So great!
+Got all those f/n working (despite Cumbie mucking up the like btn placement)
+E... add the authors on there too!"</p>
