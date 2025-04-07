@@ -25,6 +25,7 @@ My major is Computer Information Systems with a minor in Cybersecurity. I am a p
 
 
 <h2>Code from Dev Easy Project</h2>
+<h3>Contributors: Carly Copley, Dylan Goodwin, Laura Lemoine, Matthew Wise</h3>
 
 ```javascript
 $(document).ready(function () {
