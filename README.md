@@ -16,13 +16,15 @@ My major is Computer Information Systems with a minor in Cybersecurity. I am a p
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
                     </p>
+<a href="https://carlycopley.github.io/devCharlieProject/" target="_blank">Link to a recent web development group project</a>
 <br>
 <h2>Socials</h2>
 <a href="www.linkedin.com/in/carly-copley-1347a6252" target="_blank">
 <img src="https://www.citypng.com/public/uploads/preview/hd-vector-flat-linkedin-in-round-icon-png-701751695046390m4phkuuiqm.png" alt="LinkedIn" style="width: 40px; height: 40px;"></a>
 <img src="https://markmaggiori.com/cdn/shop/files/EnteringtheShrine.jpg?v=1719968158&width=2697" alt="markMaggiori">
 
-<a href="https://carlycopley.github.io/devCharlieProject/" target="_blank">Link to a recent web development group project</a>
+
+<h2>Code from Dev Easy Project</h2>
 ```
 $(document).ready(function () {
   const classFacts = [
@@ -55,5 +57,29 @@ $(document).ready(function () {
     "I enjoy kickboxing"
   ];
   console.log(classFacts);
+```
+
+<h2>More code from Dev Easy Project</h2>
+```
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+          <button class="heart btn btn-light" type="button" onclick="liked(this)">
+            Like
+            <img class="heart-img emptyHeart"
+              src="https://raw.githubusercontent.com/dgoodwin-maker/dev-easy-project/c9046dc813c20171041b92e0793c820b461c84c2/images/heart-empty.svg"
+              alt="emptyHeartImage">
+            <img class="heart-img fullHeart"
+              src="https://raw.githubusercontent.com/dgoodwin-maker/dev-easy-project/c9046dc813c20171041b92e0793c820b461c84c2/images/heart-fill.svg"
+              alt="fullHeartImage" style="display:none;">
+          </button>
+        </div>
+      </div>
+      <div class="card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <p>Flip me for a fact!</p>
+          </div>
+          <div class="flip-card-back">
+          </div>
+        </div>
 ```
                     
