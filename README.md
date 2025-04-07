@@ -25,7 +25,7 @@ My major is Computer Information Systems with a minor in Cybersecurity. I am a p
 
 
 <h2>Code from Dev Easy Project</h2>
-```
+```javascript
 $(document).ready(function () {
   const classFacts = [
     "My random fact is that I have two brothers",
