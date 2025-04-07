@@ -60,6 +60,7 @@ $(document).ready(function () {
   ];
   console.log(classFacts);
 ```
+<summary>Each student in our Web Deveopment class submitted a fun fact which we turned into a data object. We then implemented it on a website.</summary>
 
 <h2>More code from Dev Easy Project</h2>
 
@@ -86,4 +87,3 @@ $(document).ready(function () {
         </div>
 ```
 <detail>lk;asjdlfjdkj</detail>
-<summary>ksdjfkljksdj</summary>
