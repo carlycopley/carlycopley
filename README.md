@@ -85,3 +85,5 @@ $(document).ready(function () {
           </div>
         </div>
 ```
+<detail>lk;asjdlfjdkj</detail>
+<summary>ksdjfkljksdj</summary>
