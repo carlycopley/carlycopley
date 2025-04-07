@@ -61,7 +61,8 @@ $(document).ready(function () {
 ```
 
 <h2>More code from Dev Easy Project</h2>
-```
+
+```html
         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
           <button class="heart btn btn-light" type="button" onclick="liked(this)">
             Like
