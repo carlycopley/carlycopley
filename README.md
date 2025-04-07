@@ -86,4 +86,4 @@ $(document).ready(function () {
           </div>
         </div>
 ```
-<detail>lk;asjdlfjdkj</detail>
+<detail>This is the code we used to create cards. Each card contained a fun fact from our data object. The cards contained a like button and were flippable.</detail>
