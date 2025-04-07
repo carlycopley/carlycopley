@@ -25,6 +25,7 @@ My major is Computer Information Systems with a minor in Cybersecurity. I am a p
 
 
 <h2>Code from Dev Easy Project</h2>
+
 ```javascript
 $(document).ready(function () {
   const classFacts = [
@@ -58,28 +59,3 @@ $(document).ready(function () {
   ];
   console.log(classFacts);
 ```
-
-<h2>More code from Dev Easy Project</h2>
-```
-        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-          <button class="heart btn btn-light" type="button" onclick="liked(this)">
-            Like
-            <img class="heart-img emptyHeart"
-              src="https://raw.githubusercontent.com/dgoodwin-maker/dev-easy-project/c9046dc813c20171041b92e0793c820b461c84c2/images/heart-empty.svg"
-              alt="emptyHeartImage">
-            <img class="heart-img fullHeart"
-              src="https://raw.githubusercontent.com/dgoodwin-maker/dev-easy-project/c9046dc813c20171041b92e0793c820b461c84c2/images/heart-fill.svg"
-              alt="fullHeartImage" style="display:none;">
-          </button>
-        </div>
-      </div>
-      <div class="card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <p>Flip me for a fact!</p>
-          </div>
-          <div class="flip-card-back">
-          </div>
-        </div>
-```
-                    
