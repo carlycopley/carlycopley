@@ -18,7 +18,7 @@ My major is Computer Information Systems with a minor in Cybersecurity. I am a p
 <a href="https://github.com/carlycopley/dev-easy-project" target="_blank">Link to a recent web development group project</a>
 <br>
 <a href="www.linkedin.com/in/carly-copley-1347a6252" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" style="width: 40px; height: 40px;"></a>
+<img src="https://www.citypng.com/public/uploads/preview/hd-vector-flat-linkedin-in-round-icon-png-701751695046390m4phkuuiqm.png" alt="LinkedIn" style="width: 40px; height: 40px;"></a>
 <img src="https://markmaggiori.com/cdn/shop/files/EnteringtheShrine.jpg?v=1719968158&width=2697" alt="markMaggiori">
 
                     
