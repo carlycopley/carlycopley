@@ -87,7 +87,7 @@ $(document).ready(function () {
           </div>
         </div>
 ```
-<detail>This is the code we used to create cards. Each card contained a fun fact from our data object. The cards contained a like button and were flippable.</detail>
+<detail>This is the code we used to create cards. Each card contained a fun fact from our data object. The cards contained a like button and were flippable. We also implemented a search bar in the header where you can search for facts in the data object.</detail>
 <br>
 <a href="https://github.com/carlycopley/dev-easy-project">Link to the full code</a>
 <p><strong>Dr. Cumbie's Feedback: "Thu Apr 3, 2025 10:03amat Thu Apr 3, 2025 10:03am
