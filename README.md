@@ -9,7 +9,7 @@ My major is Computer Information Systems with a minor in Cybersecurity. I am a p
 *   🌍  I'm based in Florence, AL
 *   🖥️  See my portfolio at [My Github Portfolio](http://github.com/carlycopley)
 *   ✉️  You can contact me at [carlycopley88@gmail.com](mailto:carlycopley88@gmail.com)
-*   🚀  I'm currently working on [Web Development Assignment](https://dgoodwin-maker.github.io/dev-easy-project/)
+*   🚀  I'm currently working on [Dev Easy Project](https://dgoodwin-maker.github.io/dev-easy-project/)
 *   🧠  I'm learning Database Development, Web Development, Digital Forensics, and IT Infrastructure.
 *   🤝  I'm open to collaborating on Interesting projects
 <h2>Skills</h2>
