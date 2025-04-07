@@ -7,7 +7,7 @@ CSIS Undergrad at the University of North Alabama
 My major is Computer Information Systems with a minor in Cybersecurity. I am a part of the Cole Honors College and am expected to graduate May 2026.
 
 *   🌍  I'm based in Florence, AL
-*   🖥️  See my portfolio at [My Github Portfolio](http://github.com/carlycopley)
+*   🖥️  See my portfolio at [My Github Portfolio](https://github.com/carlycopley?tab=repositories)
 *   ✉️  You can contact me at [carlycopley88@gmail.com](mailto:carlycopley88@gmail.com)
 *   🚀  I'm currently working on [Dev Easy Project](https://dgoodwin-maker.github.io/dev-easy-project/)
 *   🧠  I'm learning Database Development, Web Development, Digital Forensics, and IT Infrastructure.
